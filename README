@@ -1,0 +1,3 @@
+MeterTracking is a small Mathematica package written to read certain kind of power meter using image analysis, store the data, and generate a block of informational graphs to show power usage over time correlated against other factors (e.g. time of day, temperature, etc.)
+
+This project is open-source under GNU GPL v3.
