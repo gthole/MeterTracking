@@ -4,15 +4,6 @@ Needs["MeterTracking`Content`ReadMeter`"];
 Needs["MeterTracking`Content`DataPlotting`"];
 Needs["MeterTracking`Content`WeatherUtilities`"];
 
-(*
-	ReadMeter (Done)
-	GetWeather (Done)
-	GeneratePowerViz (In Progress)
-	RunScript (In Progress)
-	Cron ()
-	Webpage Template ()
-*)
-
 UpdateMeterReadings::usage = "UpdateMeterReadings[datadir, outputdir] reads a meter from images stored in datadir, and updates the tracked data."
 UpdateMeterScript::usage = "UpdateMeterScript[datadir, outputdir] updates meter readings and outputs visualizations."
 
